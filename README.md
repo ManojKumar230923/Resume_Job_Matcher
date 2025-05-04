@@ -1,4 +1,4 @@
-# Resume_Job_Matcher
+
 # Resume Matcher
 
 This is a Python-based tool for matching resumes (in PDF format) to job descriptions using text extraction, cleaning, and natural language processing (NLP) techniques. It allows users to upload a resume in PDF format, clean the text, and match the resume to predefined job descriptions.
